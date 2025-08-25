@@ -6,8 +6,8 @@ The model has been exported into multiple formats for flexible deployment across
 ## Available Model Formats
 
 1. PyTorch (training + inference)
-
-2. OpenVINO (optimized for Intel hardware)
+https://github.com/KrishKanojia/mice-detection-yolo11s/tree/main/my_model_yolo11s_120_epochs_new_label
+3. OpenVINO (optimized for Intel hardware)
 https://drive.google.com/drive/folders/1ByYjEqASw1bUO4frAEjH2kPV541HOmzK?usp=sharing
 
 4. TensorFlow Lite (TFLite) (optimized for mobile & edge devices)
