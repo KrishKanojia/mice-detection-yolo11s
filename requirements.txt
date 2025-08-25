@@ -1,0 +1,10 @@
+ultralytics
+torch 
+torchvision
+onnx2tf
+tensorflow
+tf-keras==2.19.0
+openvino 
+openvino-dev
+sahi
+onnx-tf

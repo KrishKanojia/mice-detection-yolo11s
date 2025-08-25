@@ -1,0 +1,18 @@
+simple pytorch =>
+python yolo_detect.py --model my_model_yolo11s_120_epochs_anno_data/my_model.pt --source test_images --resolution 640x480
+
+openvino =>
+python yolo_detect_openvino.py --model "my_model_yolo11s_120_epochs/my_model_openvino_model/my_model.xml" --source recording.mp4 --resolution 640x480 --thresh 0.5
+
+
+yolo11 with sahi =>
+!python yolov8_sahi.py --source "path/to/video.mp4" --weights my_model.pt
+
+
+
+
+python yolo_detect.py --model yolo11s_120_epochs_lite_model/my_model_saved_model/my_model_float32.tflite --source test_images --resolution 640x480
+
+
+python yolo_detect.py --model my_model_yolo11s_120_epochs/my_model.pt --source test_images --resolution 640x480
+
