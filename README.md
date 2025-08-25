@@ -8,8 +8,10 @@ The model has been exported into multiple formats for flexible deployment across
 1. PyTorch (training + inference)
 
 2. OpenVINO (optimized for Intel hardware)
+https://drive.google.com/drive/folders/1ByYjEqASw1bUO4frAEjH2kPV541HOmzK?usp=sharing
 
-3. TensorFlow Lite (TFLite) (optimized for mobile & edge devices)
+4. TensorFlow Lite (TFLite) (optimized for mobile & edge devices)
+https://drive.google.com/drive/folders/1Vzrt9h6RP37M8kWwWkkea5Jc4fVL0haL?usp=sharing
 
 ## Use Cases
 
