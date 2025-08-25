@@ -53,13 +53,13 @@ python yolo_detect_openvino.py --model "my_model_openvino_model_120_epochs_new_l
 ## Yolo11s 120 epochs results
 <img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/001d24f7-9b3d-4ae2-b36a-a37b3d32281f" />
 
+## Original Label Image
+<img src="https://github.com/user-attachments/assets/b6c6f95e-e6b1-48b0-a300-3d432bf47122" width="500"/>
 
-### Original Label Image
-![val_batch0_labels](https://github.com/user-attachments/assets/b6c6f95e-e6b1-48b0-a300-3d432bf47122)
 
 
-### Predicted Image
-![val_batch0_pred](https://github.com/user-attachments/assets/01989397-72a7-42ab-a8de-5d2a08a1b7fd)
+## Predicted Image
+<img src="https://github.com/user-attachments/assets/01989397-72a7-42ab-a8de-5d2a08a1b7fd" width="500"/>
 
 
 
